@@ -1,7 +1,9 @@
 # MerryStudyCourse
 快学网所有视频教程的课件，都在这里哟。
 
-视频教程可以在以下平台免费在线观看: [油管(需要科学上网)](https://www.youtube.com)   [哔哩哔哩](https://www.bilibili.com)   [今日头条](https://www.toutiao.com/)
+快速查找课件的方法：在本网页搜索关键词，即可找到对应目录。如果目录为空，表示该教程暂未发布。
+
+视频教程免费观看平台: [油管(需要科学上网)](https://www.youtube.com) / [哔哩哔哩](https://www.bilibili.com) / [爱奇艺](https://www.iqiyi.com/) / [今日头条](https://www.toutiao.com/)
 
 ## 课程目录结构
 
