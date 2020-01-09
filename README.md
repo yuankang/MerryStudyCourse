@@ -1,7 +1,7 @@
 # MerryStudyCourse
-快学网所有教程的课件，都在这里哟。
+快学网所有视频教程的课件，都在这里哟。
 
-
+视频教程可以在以下平台免费在线观看: [油管(需要科学上网)](https://www.youtube.com)   [哔哩哔哩](https://www.bilibili.com)   [今日头条](https://www.toutiao.com/)
 
 ## 课程目录结构
 
